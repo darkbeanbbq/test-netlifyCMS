@@ -3,7 +3,11 @@
 backend:
   name: github
   repo:  darkbeanbbq/test-netlifyCMS
+  branch: master
+  site_domain: nifty-hamilton-93ed88.netlify.com
+
 media_folder: 'assets/uploads'
+
 collections:
   - name: 'blog'
     label: 'Blog'
