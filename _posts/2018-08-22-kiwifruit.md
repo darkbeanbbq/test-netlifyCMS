@@ -1,5 +1,5 @@
 ---
-title: Kiwi
+title: "\U0001F95D Kiwi"
 date: 2020-01-10T12:45:16.067Z
 tags:
   - blog
